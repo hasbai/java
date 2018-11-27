@@ -5,6 +5,7 @@ public class Main
 {
 	public static void main(String[] args) throws IOException
 	{
+		long startTime=System.currentTimeMillis();
 		Big s=new Big(); 
 		Big a=new Big();
 		int[] s0=new int[]{1,4};
@@ -32,7 +33,7 @@ public class Main
 			out.print(s.get0(i));
 		}
 		out.close();
-
-
+		long endTime=System.currentTimeMillis();
+		System.out.println("程序运行时间"+(endTime-startTime)+"ms");
 	}
 }

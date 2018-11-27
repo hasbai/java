@@ -39,13 +39,22 @@ import java.util.*;public class Big
 		}
 		return back;
 	}
-	public int[] times(int i){
+	public int[] times(int j){
+		/*
 		Big temp=new Big();
 		for(int j=0;j<i;j++){
 			temp.set(temp.add(this.get()));
 		}
 		return temp.get();
-	}
+		*/
+        int[] result =new int[this.n.length];
+        for(int i=this.n.length-1;i>=0;i--)
+        {
+            int r=this.n[i]*j+result[i];
+            result[i]=r%10;
+            result[i-1]=r
+
+	    }
 	public int[] get(){
 		return this.n;
 	}
