@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1c5e9e-d035-4749-84ae-3d73c3a5dccc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sqr2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Dfs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dfs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sqr2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sqr2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sqr2/out/production/sqr2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sqr2/out/production/sqr2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sqr2/src/Big.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sqr2/src/Big.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sqr2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sqr2/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +34,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="878" />
+          <entry key="java" value="976" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="878" />
+          <entry key="JAVA" value="976" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -58,12 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#62#63#0" expanded="true" />
-                <element signature="e#101#102#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="147">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -71,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FullyArrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="432">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -285,19 +274,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FullyArrange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="432">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
