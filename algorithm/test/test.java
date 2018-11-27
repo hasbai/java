@@ -1,22 +1,15 @@
-
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class Dfs {
+public class test {
     static int[] a,book;
     static int n;
-
-
-    public static void main(String[] args)
-    {
-
+    public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         n=in.nextInt();
         long startTime=System.currentTimeMillis();
         a=new int[n];
         book=new int[n];
-        set(0);
+
         long endTime=System.currentTimeMillis();
         System.out.println("程序运行时间："+(endTime-startTime)+" ms");
     }
@@ -28,13 +21,6 @@ public class Dfs {
             System.out.println("");
             return;
         }
-        for(int i=0;i<n;i++){
-            if(book[i]==0){
-                a[pos]=i;
-                book[i]=1;
-                set(pos+1);
-                book[i]=0;
-            }
-        }
+
     }
 }
